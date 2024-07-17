@@ -6,7 +6,7 @@
      Name = "demo-server1"
 }
 }
-
+#hello
 
 resource "aws_instance" "ec2-Instance2" {
   provider      = aws.west
